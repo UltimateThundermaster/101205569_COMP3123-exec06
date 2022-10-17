@@ -30,7 +30,7 @@ You can browse the apis at <http://localhost:8081>
 
 ![Screenshot 3](https://user-images.githubusercontent.com/114428197/196092156-6ef69591-2543-46c8-a3e5-078d106a4182.jpg)
 
-![Screenshot 4](https://user-images.githubusercontent.com/114428197/196092168-5dc1ed7f-9074-4f30-8bd5-32601e0e6f02.jpg)
+![Screenshot 4](https://user-images.githubusercontent.com/114428197/196092992-35e7ef93-b15a-4610-815d-3f002c285f35.jpg)
 
 ![Screenshot 5](https://user-images.githubusercontent.com/114428197/196092185-941466a4-41dc-4b2e-b43f-84d57eebf4ab.jpg)
 
